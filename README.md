@@ -40,6 +40,12 @@ A collection of resources about design science and linkography
 
 -
 
+# Reviews
+
+## Linkography
+
+- Adapting linkographic analysis to the study of music composition
+
 # Related Research Fields
 
 - 
